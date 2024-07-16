@@ -21,14 +21,14 @@ export const Header = () => {
           Sobre
         </Link>
         <Link
-          href="#"
+          href="/products"
           className="text-sm font-medium hover:underline underline-offset-4 text-blue-800 "
           prefetch={false}
         >
           Produtos
         </Link>
         <Link
-          href="#"
+          href="contact"
           className="text-sm font-medium hover:underline underline-offset-4 text-blue-800 "
           prefetch={false}
         >
